@@ -1,0 +1,9 @@
+#map {
+    height: 500px;
+}
+
+
+#map::before {
+ content: "Hi! Please wait as we load your map!" 
+ font: 5em "Times New Roman";
+}
